@@ -11,7 +11,7 @@ const Footer = () => {
         {/* Logo */}
         <div className="flex flex-col items-start">
           <img
-            src="./src/assets/logo_footer.png"
+            src="./assets/logo_footer.png"
             alt=""
             className="h-8 w-auto"
           />

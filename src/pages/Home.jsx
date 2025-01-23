@@ -10,7 +10,7 @@ function Home() {
         <div className="p-6 lg:p-4 flex flex-col lg:flex-row gap-6  max-w-6xl mx-auto ">
           <div className="overflow-hidden ">
             <img
-              src="./src/assets/erp-home.png"
+              src="./assets/erp-home.png"
               alt="ERP Dashboard"
               className="w-full max-w-xl"
             />
@@ -56,7 +56,7 @@ function Home() {
             <div className="flex flex-col items-center space-y-2">
               <div className="bg-blue-100 p-4 rounded-lg">
                 <img
-                  src="./src/assets/doctor.png"
+                  src="./assets/doctor.png"
                   alt="Doctors"
                   className="w-16 mx-auto"
                 />
@@ -73,7 +73,7 @@ function Home() {
             <div className="flex flex-col items-center space-y-2">
               <div className="bg-blue-100 p-4 rounded-lg">
                 <img
-                  src="./src/assets/patients.png"
+                  src="./assets/patients.png"
                   alt="Patients"
                   className="w-16 mx-auto"
                 />
@@ -90,7 +90,7 @@ function Home() {
             <div className="flex flex-col items-center space-y-2">
               <div className="bg-blue-100 p-4 rounded-lg">
                 <img
-                  src="./src/assets/medicines.png"
+                  src="./assets/medicines.png"
                   alt="Pharmacies"
                   className="w-16 mx-auto"
                 />
@@ -156,7 +156,7 @@ function Home() {
             {/* Image Card */}
             <div className="flex-1 rounded-lg p-4 sm:p-6 lg:p-8 flex justify-center items-center">
               <img
-                src="./src/assets/billing.png"
+                src="./assets/billing.png"
                 alt="Billing & Invoices"
                 className="w-full max-w-sm sm:max-w-md lg:max-w-xl rounded-lg"
               />
@@ -169,7 +169,7 @@ function Home() {
           {/* Image Card */}
           <div className=" p-4 lg:mr-2 overflow-hidden rounded-[24px] ">
             <img
-              src="./src/assets/empoweing.png"
+              src="./assets/empoweing.png"
               alt="Empowering Efficiency"
               className="w-full lg:w-auto h-auto max-w-sm lg:max-w-lg rounded-[24px]"
             />
@@ -206,7 +206,7 @@ function Home() {
             {/* Left Section - Large Image */}
             <div className="lg:col-span-2">
               <img
-                src="./src/assets/invoicemanagement.png"
+                src="./assets/invoicemanagement.png"
                 alt="Mobile Dashboard"
                 className="w-full rounded-lg"
               />
@@ -217,7 +217,7 @@ function Home() {
               {/* Top Image */}
               <div className="flex-grow p-0 m-0">
                 <img
-                  src="./src/assets/cost-effective.png"
+                  src="./assets/cost-effective.png"
                   alt="Cost Effective Plans"
                   className="w-full h-auto block"
                   style={{ margin: 0, padding: 0 }}
@@ -227,7 +227,7 @@ function Home() {
               {/* Bottom Image */}
               <div className="flex-grow p-0 m-0">
                 <img
-                  src="./src/assets/cost.png"
+                  src="./assets/cost.png"
                   alt="Demo ERP"
                   className="w-full h-auto block"
                   style={{ margin: 0, padding: 0 }}

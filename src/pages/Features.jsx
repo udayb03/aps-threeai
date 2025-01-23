@@ -24,7 +24,7 @@ function ERPFeatures() {
           {/* Right Section: Image Only */}
           <div className="w-full lg:w-1/2 flex justify-center px-2">
             <img
-              src="./src/assets/feature.png"
+              src="./assets/feature.png"
               alt="ERP Features Illustration"
               className="w-3/4 sm:w-2/3 md:w-1/2 lg:w-full max-w-2xl rounded-lg"
             />
@@ -36,7 +36,7 @@ function ERPFeatures() {
         {/* Invoice Management Image */}
         <div className="  rounded-xl overflow-hidden flex justify-center items-center p-4">
           <img
-            src="./src/assets/feature1.png"
+            src="./assets/feature1.png"
             alt="Invoice Management"
             className="object-cover w-full h-full"
           />
@@ -45,7 +45,7 @@ function ERPFeatures() {
         {/* Schedule Notification Image */}
         <div className=" rounded-xl overflow-hidden flex justify-center items-center p-4">
           <img
-            src="./src/assets/feature2.png"
+            src="./assets/feature2.png"
             alt="Schedule Notification"
             className="object-cover w-full h-full"
           />
@@ -54,7 +54,7 @@ function ERPFeatures() {
         {/* Powerful Analytics Image */}
         <div className=" rounded-xl overflow-hidden flex justify-center items-center p-4">
           <img
-            src="./src/assets/feature3.png"
+            src="./assets/feature3.png"
             alt="Powerful Analytics"
             className="object-cover w-full h-full"
           />
@@ -73,7 +73,7 @@ function ERPFeatures() {
           {/* Streamlined Sales Operations Image */}
           <div className=" rounded-xl overflow-hidden flex justify-center items-center p-4 lg:w-1/3">
             <img
-              src="./src/assets/explore1.png"
+              src="./assets/explore1.png"
               alt="Streamlined Sales Operations"
               className="object-cover w-full h-full"
             />
@@ -82,7 +82,7 @@ function ERPFeatures() {
           {/* Inventory Management Image */}
           <div className=" rounded-xl overflow-hidden flex justify-center items-center p-4 lg:w-1/3">
             <img
-              src="./src/assets/explore2.png"
+              src="./assets/explore2.png"
               alt="Inventory Management"
               className="object-cover w-full h-full"
             />
@@ -91,7 +91,7 @@ function ERPFeatures() {
           {/* Effortless Multi-Device Support Image */}
           <div className=" rounded-xl overflow-hidden flex justify-center items-center p-4 lg:w-1/3">
             <img
-              src="./src/assets/explore3.png"
+              src="./assets/explore3.png"
               alt="Effortless Multi-Device Support"
               className="object-cover w-full h-full"
             />
@@ -102,7 +102,7 @@ function ERPFeatures() {
       {/* Fourth part */}
       <div className="m-4 mt-2 lg:max-w-7xl lg:ml-32">
         <img
-          src="./src/assets/windows.png"
+          src="./assets/windows.png"
           alt=""
           className="object-cover w-full h-full"
         />
@@ -119,7 +119,7 @@ function ERPFeatures() {
           {/* Streamlined Sales Operations Image */}
           <div className=" rounded-xl overflow-hidden flex justify-center items-center p-4 lg:w-1/3">
             <img
-              src="./src/assets/discover1.png"
+              src="./assets/discover1.png"
               alt="Streamlined Sales Operations"
               className="object-cover w-full h-full"
             />
@@ -128,7 +128,7 @@ function ERPFeatures() {
           {/* Inventory Management Image */}
           <div className=" rounded-xl overflow-hidden flex justify-center items-center p-4 lg:w-1/3">
             <img
-              src="./src/assets/discover2.png"
+              src="./assets/discover2.png"
               alt="Inventory Management"
               className="object-cover w-full h-full"
             />
@@ -137,7 +137,7 @@ function ERPFeatures() {
           {/* Effortless Multi-Device Support Image */}
           <div className=" rounded-xl overflow-hidden flex justify-center items-center p-4 lg:w-1/3">
             <img
-              src="./src/assets/discover3.png"
+              src="./assets/discover3.png"
               alt="Effortless Multi-Device Support"
               className="object-cover w-full h-full"
             />

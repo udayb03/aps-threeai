@@ -11,7 +11,7 @@ function PricingPlans() {
           {/* Image on the Left */}
           <div className="md:w-1/2 flex justify-start mb-6 md:mb-0">
             <img
-              src="./src/assets/price.png" // Replace with actual image URL
+              src="./assets/price.png" // Replace with actual image URL
               alt="Pricing Illustration"
               className="w-full max-w-sm rounded-lg"
             />
@@ -45,7 +45,7 @@ function PricingPlans() {
           {/* Image 1 */}
           <div className="rounded-lg overflow-hidden">
             <img
-              src="./src/assets/price1.png" // Replace with actual pricing card image URL
+              src="./assets/price1.png" // Replace with actual pricing card image URL
               alt="Free Trial Plan"
               className="w-full h-full object-cover "
             />
@@ -54,7 +54,7 @@ function PricingPlans() {
           {/* Image 2 */}
           <div className="rounded-lg overflow-hidden">
             <img
-              src="./src/assets/price2.png" // Replace with actual pricing card image URL
+              src="./assets/price2.png" // Replace with actual pricing card image URL
               alt="Cost Effective Plan"
               className="w-full h-full object-cover"
             />
@@ -63,7 +63,7 @@ function PricingPlans() {
           {/* Image 3 */}
           <div className="rounded-lg overflow-hidden">
             <img
-              src="./src/assets/price3.png" // Replace with actual pricing card image URL
+              src="./assets/price3.png" // Replace with actual pricing card image URL
               alt="Small Business Plan"
               className="w-full h-full object-cover"
             />
@@ -72,7 +72,7 @@ function PricingPlans() {
           {/* Image 4 */}
           <div className="rounded-lg overflow-hidden">
             <img
-              src="./src/assets/price4.png" // Replace with actual pricing card image URL
+              src="./assets/price4.png" // Replace with actual pricing card image URL
               alt="Enterprise Plan"
               className="w-full h-full object-cover"
             />

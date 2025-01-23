@@ -13,7 +13,7 @@ const Blogs = () => {
             {/* Left Section - Large Image */}
             <div className="flex-1  overflow-hidden">
               <img
-                src="./src/assets/erp.png"
+                src="./assets/erp.png"
                 alt="Main Healthcare Image"
                 className="w-full h-full object-fit rounded-[24px] "
               />
@@ -30,7 +30,7 @@ const Blogs = () => {
                 {/* Blog Item 1 */}
                 <div className="flex items-center gap-5 border-t-[2px] ">
                   <img
-                    src="./src/assets/blog-image1.png"
+                    src="./assets/blog-image1.png"
                     alt="Blog 1"
                     className="w-16 h-16 lg:w-[138px] lg:h-[96px] m-2  rounded-md object-cover space-y-2"
                   />
@@ -42,7 +42,7 @@ const Blogs = () => {
                 {/* Blog Item 2 */}
                 <div className="flex items-center gap-4 border-t-[2px] ">
                   <img
-                    src="./src/assets/blog-image2.png"
+                    src="./assets/blog-image2.png"
                     alt="Blog 2"
                     className="w-16 h-16  lg:w-[138px] lg:h-[96px] m-2 rounded-md object-cover"
                   />
@@ -55,7 +55,7 @@ const Blogs = () => {
                 {/* Blog Item 3 */}
                 <div className="flex items-center gap-4 border-t-[2px]">
                   <img
-                    src="./src/assets/blog-image3.png"
+                    src="./assets/blog-image3.png"
                     alt="Blog 3"
                     className="w-16 h-16 lg:w-[138px] lg:h-[96px] m-2 rounded-md object-cover"
                   />
@@ -297,7 +297,7 @@ const Blogs = () => {
               {/* Image 1 */}
               <div className="rounded-lg ">
                 <img
-                  src="./src/assets/blog-image4.png"
+                  src="./assets/blog-image4.png"
                   alt="Blog Insight 1"
                   className="w-full h-full object-cover"
                 />
@@ -306,7 +306,7 @@ const Blogs = () => {
               {/* Image 2 */}
               <div className="rounded-lg overflow-hidden">
                 <img
-                  src="./src/assets/blog-image4.png"
+                  src="./assets/blog-image4.png"
                   alt="Blog Insight 2"
                   className="w-full h-full object-cover"
                 />
@@ -315,7 +315,7 @@ const Blogs = () => {
               {/* Image 3 */}
               <div className="rounded-lg overflow-hidden">
                 <img
-                  src="./src/assets/blog-image4.png"
+                  src="./assets/blog-image4.png"
                   alt="Blog Insight 3"
                   className="w-full h-full object-cover"
                 />

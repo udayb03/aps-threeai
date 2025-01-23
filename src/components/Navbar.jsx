@@ -14,7 +14,7 @@ function Navbar() {
         <div>
           <Link to="/home" className="flex items-center">
             <img
-              src="./src/assets/logo.png"
+              src="/public/assets/logo.png"
               alt=""
               className="h-8 w-auto px-6"
             />
